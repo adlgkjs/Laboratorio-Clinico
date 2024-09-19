@@ -1,0 +1,578 @@
+body {
+    font-family: "Montserrat", sans-serif !important;
+    color: #8e9093;
+}
+
+:root {
+    --color-tinto: #8E1638;
+    --color-rosa: #E28EAB;
+    --color-gris: #8D9091;
+    --color-gris2: #d3d3d3;
+    --color-azul: #2656cc;
+    --color-verde: #00a95e;
+    --color-verde-oscuro: #004207;
+    --color-rojo: #fb0c03;
+}
+
+.py-6 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.color-gris {
+    color: var(--color-gris);
+}
+
+.color-gris2 {
+    color: var(--color-gris2);
+}
+
+.color-azul {
+    color: var(--color-azul);
+}
+
+.color-verde {
+    color: var(--color-verde);
+}
+
+.color-rojo {
+    color: var(--color-rojo);
+}
+
+.color-tinto {
+    color: var(--color-tinto);
+}
+
+.color-rosa {
+    color: var(--color-rosa);
+}
+
+.pt-40 {
+    padding-top: 40px;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.ps-150 {
+    padding-left: 150px;
+}
+
+.my-60 {
+    margin: 60px 0px;
+}
+
+
+.py-100 {
+    padding: 4rem 0px;
+}
+
+.pt-6 {
+    padding-top: 4rem;
+}
+
+.pb-6 {
+    padding-bottom: 4rem;
+}
+
+.t-center {
+    text-align: center;
+}
+
+.padding-top-4 {
+    padding-top: 1.5rem;
+}
+
+.py-80 {
+    padding: 80px 0px;
+}
+
+.py-6 {
+    padding: 4rem 0px;
+}
+
+.color-blanco {
+    color: white !important;
+}
+.fs-10 {
+    font-size: 10px;
+}
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-20 {
+    font-size: 18px !important;
+}
+
+@media(min-width: 425px){
+    .fs-20 {
+        font-size: 20px !important;
+    }
+}
+
+.fs-22 {
+    font-size: 22px;
+}
+.fs-25 {
+    font-size: 25px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.py-40 {
+    padding: 40px 0px;
+}
+
+.py-50 {
+    padding: 60px 0px;
+}
+
+.py-70 {
+    padding: 70px 0px;
+}
+
+.fondo-blanco {
+    background: white;
+}
+.fondo-tinto {
+    background: var(--color-tinto);
+}
+.fondo-borde-tinto {
+    background: var(--color-tinto);
+    border: 1px solid var(--color-tinto);
+    color: white;
+}
+.fondo-borde-verde {
+    background: var(--color-verde);
+    border: 1px solid var(--color-verde);
+    color: white;
+}
+.fondo-verde{
+    background: var(--color-verde);
+}
+.fondo-verde-oscuro{
+    background: var(--color-verde-oscuro);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.list-style-none {
+    list-style: none;
+}
+
+.navbar {
+    box-shadow: 0 0px 10px rgb(0, 0, 0, 0.1);
+    z-index: 10;
+    background: white;
+}
+
+
+/* Estos es para quitar flechas de input type:number */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin:
+        0;
+}
+
+.font-italic {
+    font-style: italic;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.banner-superior-container {
+    overflow: hidden;
+    height: 250px;
+    box-shadow: 0 0px 10px rgb(0, 0, 0, 0.3);
+    position: relative;
+}
+
+@media(min-width: 575px) {
+    .banner-superior-container {
+        height: auto;
+    }
+}
+
+.banner-superior-container img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.buscador-container {
+    background: #f4f6f9;
+}
+
+.buscador-container h2 {
+    color: #00a95e;
+}
+
+.buscador-individual-container {
+    border: 3px solid #00a95e;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+.buscador-individual-container:focus-within {
+    box-shadow: 0 0 15px rgb(0, 0, 0, 0.2);
+}
+
+.buscador-individual-container i {
+    color: #00a95e;
+    font-size: 25px;
+}
+
+.buscador-individual-container input {
+    background: none;
+    padding: 10px 0px;
+    width: 100%;
+    border: none;
+}
+
+.buscador-individual-container input:focus {
+    outline: none;
+}
+
+.estudio-img-container {
+    background: #f2f4f7;
+    text-align: center;
+    overflow: hidden;
+}
+
+.estudio-img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.estudio-img-container-carrito {
+    background: #f2f4f7;
+    text-align: center;
+    overflow: hidden;
+}
+.estudio-img-container-carrito img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.img-container-modal {
+    overflow: hidden;
+}
+
+.img-container-modal img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.estudio-info-container p {
+    margin: 0px;
+    font-size: 14px;
+    color: #8e9093;
+}
+
+.agendar-btn-container,
+.btn-container-modal {
+    border: 2px solid #00a95e;
+    background: white;
+    padding: 3px 50px;
+    margin: auto;
+    border-radius: 20px;
+    color: #00a95e;
+    text-decoration: none;
+    font-size: 14px;
+
+    transition: all 0.3s ease;
+}
+
+.agendar-btn-container:hover,
+.btn-container-modal:hover {
+    background: #00a95e;
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.3);
+}
+.agendar-btn-container-tinto,
+.btn-container-tinto-modal {
+    border: 2px solid var(--color-tinto);
+    background: white;
+    padding: 3px 20px;
+    margin: auto;
+    border-radius: 20px;
+    color: var(--color-tinto);
+    text-decoration: none;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+.agendar-btn-container-tinto:hover,
+.btn-container-tinto-modal:hover {
+    background: var(--color-tinto);
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.3);
+}
+
+
+.estudios-btns-container {
+    display: flex;
+    cursor: pointer;
+}
+
+.btn-eye,
+.btn-eye-tinto,
+.btn-heart,
+.btn-heart-tinto {
+    width: 50%;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.btn-heart-modal, .btn-heart-tinto-modal {
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.btn-eye i,
+.btn-eye-tinto i,
+.btn-heart i,
+.btn-heart-tinto i {
+    color: #d3d3d3;
+}
+
+.estudio-father-container {
+    transition: all 0.3s ease;
+    border-radius: 5px;
+}
+
+.estudio-father-container:hover {
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
+}
+
+.btn-eye:hover,
+.btn-heart:hover,
+.btn-heart-modal:hover {
+    background: #00a95e;
+    border: 1px solid #00a95e;
+    color: white;
+}
+.btn-eye-tinto:hover,
+.btn-heart-tinto:hover,
+.btn-heart-tinto-modal:hover {
+    background: var(--color-tinto);
+    border: 1px solid var(--color-tinto);
+    color: white;
+}
+
+.btn-eye:hover i,
+.btn-eye-tinto:hover i,
+.btn-heart:hover i,
+.btn-heart-tinto:hover i,
+.btn-heart-modal:hover i,
+.btn-heart-tinto-modal:hover i {
+    color: white;
+}
+
+.modal-header {
+    border-bottom: none !important;
+    padding-bottom: 0px !important;
+    width: 100%;
+    max-width: 1320px;
+    margin: auto;
+}
+
+.modal-body {
+    padding-top: 0px !important;
+    width: 100%;
+    max-width: 1320px;
+    margin: auto;
+}
+
+.modal-content {
+    height: 400px;
+    max-height: 60vh;
+    overflow-y: auto;
+    box-shadow: 0 0 10px rgb(226, 226, 226);
+}
+
+.modal-backdrop.show {
+    background-color: rgb(255, 255, 255);
+    /* Cambia el color y la opacidad aquí */
+}
+
+.info-modal-container p,
+ul {
+    font-size: 14px;
+    margin-bottom: 0px;
+    color: #8e9093;
+}
+
+.p-paginator-page.p-highlight {
+    background: #00a95e;
+    color: white;
+    border-radius: 50%;
+}
+
+.input-contact-container input {
+    width: 100%;
+    background: none;
+    padding: 5px 20px;
+    border: 2px solid #00a95e;
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+.input-contact-container input:focus,
+textarea:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.input-contact-container textarea {
+    width: 100%;
+    background: none;
+    padding: 5px 20px;
+    border: 2px solid #00a95e;
+    border-radius: 15px;
+    height: 150px;
+    transition: all 0.3s ease;
+
+}
+
+.input-number-container {
+    display: flex;
+}
+
+.btn-enviar {
+    background: #00a95e;
+    color: white;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+
+.btn-enviar:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+.btn-enviar:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    box-shadow: none;
+}
+
+/* Estilos para md en adelante */
+@media(min-width:768px) {
+    .pb-md-6 {
+        padding-bottom: 4rem;
+    }
+
+    .text-md-left {
+        text-align: left;
+    }
+
+    .pt-md-40 {
+        padding-top: 40px;
+    }
+
+    .py-md-6 {
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+
+    .py-md-70 {
+        padding: 70px 0px;
+    }
+
+    .logo-banner-footer {
+        width: 300px !important;
+    }
+
+    .banner-footer-container {
+        height: auto !important;
+    }
+    .fs-md-20{
+        font-size: 20px;
+    }
+    .fs-md-25{
+        font-size: 25px;
+    }
+    
+    .modal-backdrop{ /* Para Quitar opacidad o parpadeo de mdoal */
+        transition: all 0s !important;
+    }
+}
+.checkbox-container {
+    display: flex;
+    align-items: center;
+  }
+  .checkbox-container input {
+    appearance: none;
+    /*Para que aplique mis estilos y no los que tienen por defecto*/
+    border: 2px solid var(--color-verde);
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .checkbox-container input:checked {
+    background: var(--color-verde);
+    border-color: var(--color-verde);
+  }
+  
+  .checkbox-container input:checked::before {
+    /*Estilos para cuando checkbox este seleccionado*/
+    content: '✔';
+    color: white;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.1;
+  }
+
+  .link-condiciones {
+    text-decoration: none;
+    color: var(--color-verde);
+    transition: all 0.3 ease;
+  }
+  .link-condiciones:hover {
+    text-decoration:underline;
+  }
+  
+  
+  
+

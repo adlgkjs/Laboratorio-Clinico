@@ -1,0 +1,416 @@
+Array
+(
+    [infoCita] => Array
+        (
+            [nombre] => sdfghhgf
+            [apellidos] => sdfghgfd
+            [correo] => analista.software1@tdi-sa.com
+            [telefono] => 34565432
+            [calle] => sdfghgfd
+            [no_ext] => 234
+            [colonia] => asdfghgfds
+            [municipio] => sdfghgfds
+            [estado] => sdfgfds
+            [pais] => sdfgfd
+            [fecha] => 2024-08-22
+            [hora] => 09
+            [minutos] => 00
+        )
+
+)
+Array
+(
+    [infoCita] => Array
+        (
+            [nombre] => sdfghhgf
+            [apellidos] => sdfghgfd
+            [correo] => analista.software1@tdi-sa.com
+            [telefono] => 234567654
+            [calle] => dfghgfdssdfg
+            [no_ext] => 23
+            [colonia] => sdfghgfd
+            [municipio] => sdfg
+            [estado] => sdfghgfd
+            [pais] => México
+            [fecha] => 2024-08-23
+            [hora] => 09
+            [minutos] => 00
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [unidad_negocio_id] => 1
+            [codigo] => PQ005
+            [nombre] => Perfil de Vías Urinarias
+            [precio] => 657.62
+            [img] => vias_urinarias.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [unidad_negocio_id] => 1
+            [codigo] => PQ004
+            [nombre] => Perfil general
+            [precio] => 793.22
+            [img] => general.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [unidad_negocio_id] => 1
+            [codigo] => PQ006
+            [nombre] => Perfil Hombre
+            [precio] => 1587.30
+            [img] => 
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [unidad_negocio_id] => 1
+            [codigo] => PQ004
+            [nombre] => Perfil general
+            [precio] => 793.22
+            [img] => general.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [unidad_negocio_id] => 1
+            [codigo] => PQ005
+            [nombre] => Perfil de Vías Urinarias
+            [precio] => 657.62
+            [img] => vias_urinarias.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [unidad_negocio_id] => 1
+            [codigo] => PQ006
+            [nombre] => Perfil Hombre
+            [precio] => 1587.30
+            [img] => 
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [unidad_negocio_id] => 1
+            [codigo] => PQ004
+            [nombre] => Perfil general
+            [precio] => 793.22
+            [img] => general.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [1] => Array
+        (
+            [id] => 454
+            [unidad_negocio_id] => 1
+            [codigo] => PQ005
+            [nombre] => Perfil de Vías Urinarias
+            [sinonimo] => Examen General de Orina, Cultivo de orina.
+            [tipo_muestra] => Orina reciente 10 mL.
+            [metodologia] => Microscopia y cultivo en medios convencionales
+            [contenedor] => Frasco de plástico estéril de boca ancha y tapón de rosca. Jeringa estéril.Bolsa colectora de orina pediátrica estéril.
+            [indicaciones_paciente] => Realizar lavado del área genital previo a la toma de muestra. Primera micción del día, si no es posible dejar pasar mínimo 3 horas desde la última micción. Descartar la primera porción de la micción en el sanitario, posteriormente recoger la segunda micci
+            [condiciones_envio] => Transportar a temperatura refrigeración (2-8°C). Enviar al laboratorio en un lapso de tiempo no mayor a 2 horas
+            [estabilidad_muestra] => Estable a 2 horas a temperatura ambiente, 6 horas a temperatura de refrigeración.
+            [interferencias] => Contenedor mal cerrado. Orina contaminada con heces.
+            [indicaciones_muestra] => Tomar muestra en condicione estériles. Llenado de R.CDMI.MCC.017 Cuestionario para toma de muestra microbiológica.
+            [tiempo_entrega] => 3 días hábiles
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00
+            [precio] => 657.62
+            [img] => vias_urinarias.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [2] => Array
+        (
+            [id] => 455
+            [unidad_negocio_id] => 1
+            [codigo] => PQ006
+            [nombre] => Perfil Hombre
+            [sinonimo] => Biometría Hemática (BH, Química Sanguínea (6), Examen General de Orina, Ag. Prostático Específico Libre (PSAL), Ag. Prostático Específico Total (PSAT).
+            [tipo_muestra] => Sangre total C/EDTA, Suero 4 mL, Orina reciente 10 mL .
+            [metodologia] => Fotometría-Impedancia, Microscopía, Quimioluminiscencia.
+            [contenedor] => Tubo rojo - Tubo amarillo con gel separador/Tubi lila con EDTA/ Recipiente esteril
+            [indicaciones_paciente] => 1) Ayuno de 8 a 12 horas. No ingerir carnes rojas por al menos 3 días previos a la toma de muestra Evitar tomar los siguientes fármacos: salicilatos. 2) Primera orina de la mañana de chorro medio o con un mínimo de 4 horas de incubación en la vejiga.
+            [condiciones_envio] => Temperatura de refrigeración
+            [estabilidad_muestra] => Estable 24 horas a temperatura de refrigeración. Orina 2 horas
+            [interferencias] => muestras hemolizadas/coaguladas/ orinas derramadas
+            [indicaciones_muestra] => Envíar en un lapso no mayor a 2 horas
+            [tiempo_entrega] => 3 días hábiles
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00.
+            [precio] => 1587.30
+            [img] => hombre.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 453
+            [unidad_negocio_id] => 1
+            [codigo] => PQ004
+            [nombre] => Perfil General
+            [sinonimo] => Biometría Hemática (BH, Química Sanguínea (6), Examen General de Orina.
+            [tipo_muestra] => Sangre total C/EDTA, Suero 3 mL, Orina reciente 10 mL
+            [metodologia] => Fotometría-Impedancia, Microscopía, Quimioluminiscencia.
+            [contenedor] => Tubo rojo - Tubo amarillo con gel separador/Tubi lila con EDTA/ Recipiente esteril
+            [indicaciones_paciente] => 1) Ayuno de 8 a 12 horas. No ingerir carnes rojas por al menos 3 días previos a la toma de muestra Evitar tomar los siguientes fármacos: salicilatos, anticonceptivos orales, estrógenos. 2) Primera orina de la mañana de chorro medio o con un mínimo de 4 ho
+            [condiciones_envio] => Temperatura de refrigeración
+            [estabilidad_muestra] => Estable 24 horas a temperatura de refrigeración. Orina 2 horas
+            [interferencias] => muestras hemolizadas/coaguladas/ orinas derramadas
+            [indicaciones_muestra] => Envíar en un lapso no mayor a 2 horas
+            [tiempo_entrega] => 1 día hábil
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00
+            [precio] => 793.22
+            [img] => general.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [unidad_negocio_id] => 1
+            [codigo] => PQ004
+            [nombre] => Perfil general
+            [precio] => 793.22
+            [img] => general.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 453
+            [unidad_negocio_id] => 1
+            [codigo] => PQ004
+            [nombre] => Perfil General
+            [sinonimo] => Biometría Hemática (BH, Química Sanguínea (6), Examen General de Orina.
+            [tipo_muestra] => Sangre total C/EDTA, Suero 3 mL, Orina reciente 10 mL
+            [metodologia] => Fotometría-Impedancia, Microscopía, Quimioluminiscencia.
+            [contenedor] => Tubo rojo - Tubo amarillo con gel separador/Tubi lila con EDTA/ Recipiente esteril
+            [indicaciones_paciente] => 1) Ayuno de 8 a 12 horas. No ingerir carnes rojas por al menos 3 días previos a la toma de muestra Evitar tomar los siguientes fármacos: salicilatos, anticonceptivos orales, estrógenos. 2) Primera orina de la mañana de chorro medio o con un mínimo de 4 ho
+            [condiciones_envio] => Temperatura de refrigeración
+            [estabilidad_muestra] => Estable 24 horas a temperatura de refrigeración. Orina 2 horas
+            [interferencias] => muestras hemolizadas/coaguladas/ orinas derramadas
+            [indicaciones_muestra] => Envíar en un lapso no mayor a 2 horas
+            [tiempo_entrega] => 1 día hábil
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00
+            [precio] => 793.22
+            [img] => general.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 453
+            [unidad_negocio_id] => 1
+            [codigo] => PQ004
+            [nombre] => Perfil General
+            [sinonimo] => Biometría Hemática (BH, Química Sanguínea (6), Examen General de Orina.
+            [tipo_muestra] => Sangre total C/EDTA, Suero 3 mL, Orina reciente 10 mL
+            [metodologia] => Fotometría-Impedancia, Microscopía, Quimioluminiscencia.
+            [contenedor] => Tubo rojo - Tubo amarillo con gel separador/Tubi lila con EDTA/ Recipiente esteril
+            [indicaciones_paciente] => 1) Ayuno de 8 a 12 horas. No ingerir carnes rojas por al menos 3 días previos a la toma de muestra Evitar tomar los siguientes fármacos: salicilatos, anticonceptivos orales, estrógenos. 2) Primera orina de la mañana de chorro medio o con un mínimo de 4 ho
+            [condiciones_envio] => Temperatura de refrigeración
+            [estabilidad_muestra] => Estable 24 horas a temperatura de refrigeración. Orina 2 horas
+            [interferencias] => muestras hemolizadas/coaguladas/ orinas derramadas
+            [indicaciones_muestra] => Envíar en un lapso no mayor a 2 horas
+            [tiempo_entrega] => 1 día hábil
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00
+            [precio] => 793.22
+            [img] => general.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 453
+            [unidad_negocio_id] => 1
+            [codigo] => PQ004
+            [nombre] => Perfil General
+            [sinonimo] => Biometría Hemática (BH, Química Sanguínea (6), Examen General de Orina.
+            [tipo_muestra] => Sangre total C/EDTA, Suero 3 mL, Orina reciente 10 mL
+            [metodologia] => Fotometría-Impedancia, Microscopía, Quimioluminiscencia.
+            [contenedor] => Tubo rojo - Tubo amarillo con gel separador/Tubi lila con EDTA/ Recipiente esteril
+            [indicaciones_paciente] => 1) Ayuno de 8 a 12 horas. No ingerir carnes rojas por al menos 3 días previos a la toma de muestra Evitar tomar los siguientes fármacos: salicilatos, anticonceptivos orales, estrógenos. 2) Primera orina de la mañana de chorro medio o con un mínimo de 4 ho
+            [condiciones_envio] => Temperatura de refrigeración
+            [estabilidad_muestra] => Estable 24 horas a temperatura de refrigeración. Orina 2 horas
+            [interferencias] => muestras hemolizadas/coaguladas/ orinas derramadas
+            [indicaciones_muestra] => Envíar en un lapso no mayor a 2 horas
+            [tiempo_entrega] => 1 día hábil
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00
+            [precio] => 793.22
+            [img] => general.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [1] => Array
+        (
+            [id] => 454
+            [unidad_negocio_id] => 1
+            [codigo] => PQ005
+            [nombre] => Perfil de Vías Urinarias
+            [sinonimo] => Examen General de Orina, Cultivo de orina.
+            [tipo_muestra] => Orina reciente 10 mL.
+            [metodologia] => Microscopia y cultivo en medios convencionales
+            [contenedor] => Frasco de plástico estéril de boca ancha y tapón de rosca. Jeringa estéril.Bolsa colectora de orina pediátrica estéril.
+            [indicaciones_paciente] => Realizar lavado del área genital previo a la toma de muestra. Primera micción del día, si no es posible dejar pasar mínimo 3 horas desde la última micción. Descartar la primera porción de la micción en el sanitario, posteriormente recoger la segunda micci
+            [condiciones_envio] => Transportar a temperatura refrigeración (2-8°C). Enviar al laboratorio en un lapso de tiempo no mayor a 2 horas
+            [estabilidad_muestra] => Estable a 2 horas a temperatura ambiente, 6 horas a temperatura de refrigeración.
+            [interferencias] => Contenedor mal cerrado. Orina contaminada con heces.
+            [indicaciones_muestra] => Tomar muestra en condicione estériles. Llenado de R.CDMI.MCC.017 Cuestionario para toma de muestra microbiológica.
+            [tiempo_entrega] => 3 días hábiles
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00
+            [precio] => 657.62
+            [img] => vias_urinarias.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [2] => Array
+        (
+            [id] => 455
+            [unidad_negocio_id] => 1
+            [codigo] => PQ006
+            [nombre] => Perfil Hombre
+            [sinonimo] => Biometría Hemática (BH, Química Sanguínea (6), Examen General de Orina, Ag. Prostático Específico Libre (PSAL), Ag. Prostático Específico Total (PSAT).
+            [tipo_muestra] => Sangre total C/EDTA, Suero 4 mL, Orina reciente 10 mL .
+            [metodologia] => Fotometría-Impedancia, Microscopía, Quimioluminiscencia.
+            [contenedor] => Tubo rojo - Tubo amarillo con gel separador/Tubi lila con EDTA/ Recipiente esteril
+            [indicaciones_paciente] => 1) Ayuno de 8 a 12 horas. No ingerir carnes rojas por al menos 3 días previos a la toma de muestra Evitar tomar los siguientes fármacos: salicilatos. 2) Primera orina de la mañana de chorro medio o con un mínimo de 4 horas de incubación en la vejiga.
+            [condiciones_envio] => Temperatura de refrigeración
+            [estabilidad_muestra] => Estable 24 horas a temperatura de refrigeración. Orina 2 horas
+            [interferencias] => muestras hemolizadas/coaguladas/ orinas derramadas
+            [indicaciones_muestra] => Envíar en un lapso no mayor a 2 horas
+            [tiempo_entrega] => 3 días hábiles
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00.
+            [precio] => 1587.30
+            [img] => hombre.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 453
+            [unidad_negocio_id] => 1
+            [codigo] => PQ004
+            [nombre] => Perfil General
+            [sinonimo] => Biometría Hemática (BH, Química Sanguínea (6), Examen General de Orina.
+            [tipo_muestra] => Sangre total C/EDTA, Suero 3 mL, Orina reciente 10 mL
+            [metodologia] => Fotometría-Impedancia, Microscopía, Quimioluminiscencia.
+            [contenedor] => Tubo rojo - Tubo amarillo con gel separador/Tubi lila con EDTA/ Recipiente esteril
+            [indicaciones_paciente] => 1) Ayuno de 8 a 12 horas. No ingerir carnes rojas por al menos 3 días previos a la toma de muestra Evitar tomar los siguientes fármacos: salicilatos, anticonceptivos orales, estrógenos. 2) Primera orina de la mañana de chorro medio o con un mínimo de 4 ho
+            [condiciones_envio] => Temperatura de refrigeración
+            [estabilidad_muestra] => Estable 24 horas a temperatura de refrigeración. Orina 2 horas
+            [interferencias] => muestras hemolizadas/coaguladas/ orinas derramadas
+            [indicaciones_muestra] => Envíar en un lapso no mayor a 2 horas
+            [tiempo_entrega] => 1 día hábil
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00
+            [precio] => 793.22
+            [img] => general.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [1] => Array
+        (
+            [id] => 454
+            [unidad_negocio_id] => 1
+            [codigo] => PQ005
+            [nombre] => Perfil de Vías Urinarias
+            [sinonimo] => Examen General de Orina, Cultivo de orina.
+            [tipo_muestra] => Orina reciente 10 mL.
+            [metodologia] => Microscopia y cultivo en medios convencionales
+            [contenedor] => Frasco de plástico estéril de boca ancha y tapón de rosca. Jeringa estéril.Bolsa colectora de orina pediátrica estéril.
+            [indicaciones_paciente] => Realizar lavado del área genital previo a la toma de muestra. Primera micción del día, si no es posible dejar pasar mínimo 3 horas desde la última micción. Descartar la primera porción de la micción en el sanitario, posteriormente recoger la segunda micci
+            [condiciones_envio] => Transportar a temperatura refrigeración (2-8°C). Enviar al laboratorio en un lapso de tiempo no mayor a 2 horas
+            [estabilidad_muestra] => Estable a 2 horas a temperatura ambiente, 6 horas a temperatura de refrigeración.
+            [interferencias] => Contenedor mal cerrado. Orina contaminada con heces.
+            [indicaciones_muestra] => Tomar muestra en condicione estériles. Llenado de R.CDMI.MCC.017 Cuestionario para toma de muestra microbiológica.
+            [tiempo_entrega] => 3 días hábiles
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00
+            [precio] => 657.62
+            [img] => vias_urinarias.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+    [2] => Array
+        (
+            [id] => 455
+            [unidad_negocio_id] => 1
+            [codigo] => PQ006
+            [nombre] => Perfil Hombre
+            [sinonimo] => Biometría Hemática (BH, Química Sanguínea (6), Examen General de Orina, Ag. Prostático Específico Libre (PSAL), Ag. Prostático Específico Total (PSAT).
+            [tipo_muestra] => Sangre total C/EDTA, Suero 4 mL, Orina reciente 10 mL .
+            [metodologia] => Fotometría-Impedancia, Microscopía, Quimioluminiscencia.
+            [contenedor] => Tubo rojo - Tubo amarillo con gel separador/Tubi lila con EDTA/ Recipiente esteril
+            [indicaciones_paciente] => 1) Ayuno de 8 a 12 horas. No ingerir carnes rojas por al menos 3 días previos a la toma de muestra Evitar tomar los siguientes fármacos: salicilatos. 2) Primera orina de la mañana de chorro medio o con un mínimo de 4 horas de incubación en la vejiga.
+            [condiciones_envio] => Temperatura de refrigeración
+            [estabilidad_muestra] => Estable 24 horas a temperatura de refrigeración. Orina 2 horas
+            [interferencias] => muestras hemolizadas/coaguladas/ orinas derramadas
+            [indicaciones_muestra] => Envíar en un lapso no mayor a 2 horas
+            [tiempo_entrega] => 3 días hábiles
+            [dias_proceso] => Lunes a Sábado Antes de las 11:00.
+            [precio] => 1587.30
+            [img] => hombre.png
+            [created_at] => -000001-11-30T00:00:00.000000Z
+            [updated_at] => -000001-11-30T00:00:00.000000Z
+        )
+
+)
