@@ -1,0 +1,32 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^5.1.0",
+        "axios": "^1.7.7",
+        "laravel-vite-plugin": "^1.0.5",
+        "vite": "^5.0.0",
+        "vue": "^3.4.34",
+        "vue-loader": "^17.4.2",
+        "vue-template-compiler": "^2.7.16"
+    },
+    "dependencies": {
+        "@popperjs/core": "^2.11.8",
+        "@primevue/themes": "^4.0.2",
+        "animate.css": "^4.1.1",
+        "aos": "^2.3.4",
+        "bootstrap": "^5.3.3",
+        "lodash": "^4.17.21",
+        "primeicons": "^5.0.0",
+        "primevue": "^3.53.0",
+        "sweetalert2": "^11.12.4",
+        "v-calendar": "^3.1.2",
+        "vue-router": "^4.4.0",
+        "vuex": "^4.1.0",
+        "xlsx": "^0.18.5"
+    }
+}
