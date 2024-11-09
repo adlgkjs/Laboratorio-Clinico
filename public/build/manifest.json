@@ -1,0 +1,83 @@
+{
+  "node_modules/primeicons/fonts/primeicons.eot": {
+    "file": "assets/primeicons-CI7iEhau.eot",
+    "src": "node_modules/primeicons/fonts/primeicons.eot"
+  },
+  "node_modules/primeicons/fonts/primeicons.svg": {
+    "file": "assets/primeicons-CPxenFJM.svg",
+    "src": "node_modules/primeicons/fonts/primeicons.svg"
+  },
+  "node_modules/primeicons/fonts/primeicons.ttf": {
+    "file": "assets/primeicons-DvHBoTlB.ttf",
+    "src": "node_modules/primeicons/fonts/primeicons.ttf"
+  },
+  "node_modules/primeicons/fonts/primeicons.woff": {
+    "file": "assets/primeicons-cX8YLkvA.woff",
+    "src": "node_modules/primeicons/fonts/primeicons.woff"
+  },
+  "resources/assets/imagenes/fondo_gris.png": {
+    "file": "assets/fondo_gris-CcVctFxz.png",
+    "src": "resources/assets/imagenes/fondo_gris.png"
+  },
+  "resources/assets/imagenes/inicio/analisis_empresariales.png": {
+    "file": "assets/analisis_empresariales-C6iQcvt3.png",
+    "src": "resources/assets/imagenes/inicio/analisis_empresariales.png"
+  },
+  "resources/assets/imagenes/inicio/analisis_industriales.png": {
+    "file": "assets/analisis_industriales-C6CAEqxN.png",
+    "src": "resources/assets/imagenes/inicio/analisis_industriales.png"
+  },
+  "resources/assets/imagenes/inicio/analisis_pacientes.png": {
+    "file": "assets/analisis_pacientes-BSl7YH4G.png",
+    "src": "resources/assets/imagenes/inicio/analisis_pacientes.png"
+  },
+  "resources/assets/imagenes/inicio/descargar_resultados.png": {
+    "file": "assets/descargar_resultados-B7qDbrGb.png",
+    "src": "resources/assets/imagenes/inicio/descargar_resultados.png"
+  },
+  "resources/assets/imagenes/inicio/tablet_siguenos.png": {
+    "file": "assets/tablet_siguenos-BlAnpoTq.png",
+    "src": "resources/assets/imagenes/inicio/tablet_siguenos.png"
+  },
+  "resources/assets/imagenes/licencia_cofepris.png": {
+    "file": "assets/licencia_cofepris-B6yVaKt6.png",
+    "src": "resources/assets/imagenes/licencia_cofepris.png"
+  },
+  "resources/assets/imagenes/licencia_iso.png": {
+    "file": "assets/licencia_iso-CWw0uGUD.png",
+    "src": "resources/assets/imagenes/licencia_iso.png"
+  },
+  "resources/assets/imagenes/logo_ema.jpg": {
+    "file": "assets/logo_ema-Me9d90Ys.jpg",
+    "src": "resources/assets/imagenes/logo_ema.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DcC7Zp3Z.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CmYIyfjx.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-BSrV8Ahx.css"
+    ],
+    "assets": [
+      "assets/licencia_iso-CWw0uGUD.png",
+      "assets/licencia_cofepris-B6yVaKt6.png",
+      "assets/logo_ema-Me9d90Ys.jpg",
+      "assets/analisis_pacientes-BSl7YH4G.png",
+      "assets/analisis_empresariales-C6iQcvt3.png",
+      "assets/analisis_industriales-C6CAEqxN.png",
+      "assets/descargar_resultados-B7qDbrGb.png",
+      "assets/tablet_siguenos-BlAnpoTq.png",
+      "assets/fondo_gris-CcVctFxz.png",
+      "assets/primeicons-CI7iEhau.eot",
+      "assets/primeicons-DvHBoTlB.ttf",
+      "assets/primeicons-cX8YLkvA.woff",
+      "assets/primeicons-CPxenFJM.svg"
+    ]
+  }
+}
